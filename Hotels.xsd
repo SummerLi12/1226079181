@@ -27,12 +27,12 @@
 										<xsd:element name="Zip" type="xsd:string" minOccurs="1" maxOccurs="1"/>
 									</xsd:sequence>
 									<!-- Required attribute for address-->
-									<xsd:attribute name="_NearestAirport" type="xsd:string" use="required"/>
+									<xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
 								</xsd:complexType>
 							</xsd:element>
 						</xsd:sequence>
 						<!-- Optional Attribute for Rating in hotel-->
-						<xsd:attribute name="_Rating" type="xsd:decimal" use="optional"/>
+						<xsd:attribute name="Rating" type="xsd:decimal" use="optional"/>
 					</xsd:complexType>
 				</xsd:element>
 			</xsd:sequence>
