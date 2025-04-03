@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotels xmlns="https://www.public.asu.edu/1226079181"
-		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-		xsi:schemaLocation="https://www.public.asu.edu/1226079181/Hotels.xsd https://www.public.asu.edu/1226079181/Hotels.xsd">
-		>
+<Hotels>
 	<!--Hotel 1-->
 	<Hotel rating="4.5">
 		<Name>Sonesta Suites Scottsdale Gainey Ranch</Name>
