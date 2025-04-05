@@ -11,7 +11,6 @@
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85258</Zip>
-		</Address>
 	</Hotel>
 
 	<!--Hotel 2-->
@@ -53,7 +52,7 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85032</Zip>
-		</Address>
+		
 	</Hotel>
 
 	<!--Hotel 5-->
@@ -66,7 +65,7 @@
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85255</Zip>
-		</Address>
+		
 	</Hotel>
 	
 	<!--Hotel 6-->
