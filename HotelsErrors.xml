@@ -21,11 +21,13 @@
 		<Name>The Cambria Hotel in North Phoenix</Name>
 		<Phone>623-462-8271</Phone>
 		<!--Error2 Missing required Attribute-->
+		<Address>
 			<Number>222</Number>
 			<Street>E.Portland St</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85004</Zip>
+		</Address>
 	</Hotel>
 
 	<!--Hotel 3-->
