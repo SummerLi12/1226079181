@@ -18,7 +18,7 @@
 	<Hotel>
 		<!--Error5 Two names provide-->
 		<Name>Cambria Hotel</Name>
-		<Name>The Cambria Hotel</Name>
+		<Name>The Cambria Hotel in North Phoenix</Name>
 		<Phone>623-462-8271</Phone>
 		<!--Error2 Missing required Attribute-->
 			<Number>222</Number>
