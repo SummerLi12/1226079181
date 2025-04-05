@@ -5,7 +5,7 @@
 		<Name>Sonesta Suites Scottsdale Gainey Ranch</Name>
 		<Phone>480-922-6969</Phone>
 		<Phone>877-504-7386</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>7300</Number>
 			<Street>E.Gainey Suites Drive</Street>
 			<City>Scottsdale</City>
@@ -18,7 +18,7 @@
 	<Hotel>
 		<Name>Cambria Hotel</Name>
 		<Phone>623-462-8271</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>222</Number>
 			<Street>E.Portland St</Street>
 			<City>Phoenix</City>
@@ -31,7 +31,7 @@
 	<Hotel>
 		<Name>The Clarendon Hotel and Spa</Name>
 		<Phone>602-252-7363</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>401</Number>
 			<Street>W.Calarendon Ave</Street>
 			<City>Phoenix</City>
@@ -44,7 +44,7 @@
 	<Hotel Rating="3">
 		<Name>Embassy Suites by Hilton Phoenix Scottsdale</Name>
 		<Phone>602-765-5800</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>4415</Number>
 			<Street>E.Paradise Vlg Pkwy S</Street>
 			<City>Phoenix</City>
@@ -57,7 +57,7 @@
 	<Hotel Rating="4.7">
 		<Name>Hilton North Scottsdale at Cavasson</Name>
 		<Phone>480-648-1500</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>7965</Number>
 			<Street>E.Cavasson Blvd</Street>
 			<City>Scottsdale</City>
@@ -70,7 +70,7 @@
 	<Hotel Rating="4">
 		<Name>DoubleTree by Hilton Phoenix North</Name>
 		<Phone>602-997-5900</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>10220</Number>
 			<Street>N.Metro Pkmy E</Street>
 			<City>Phoenix</City>
@@ -83,7 +83,7 @@
 	<Hotel Rating="4.5">
 		<Name>The Scottsdale Plaza Resort</Name>
 		<Phone>480-648-1500</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>7200</Number>
 			<Street>N.Scottsdale Rd</Street>
 			<City>Scottsdale</City>
@@ -96,7 +96,7 @@
 	<Hotel Rating="4.1">
 		<Name>The McCormick Scottsdale</Name>
 		<Phone>800-535-1865</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>7421</Number>
 			<Street>N.Scottsdale Rd</Street>
 			<City>Scottsdale</City>
@@ -109,7 +109,7 @@
 	<Hotel>
 		<Name>Holiday Inn Express</Name>
 		<Phone>480-473-3400</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>4575</Number>
 			<Street>E.Irma Ln</Street>
 			<City>Phoenix</City>
@@ -122,7 +122,7 @@
 	<Hotel Rating="4.6">
 		<Name>Arizona Biltmore</Name>
 		<Phone>602-955-6600</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>2400</Number>
 			<Street>E.Missouri Ave</Street>
 			<City>Phoenix</City>
