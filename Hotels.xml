@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Hotels>
+<Hotels xmlns ="https://github.com/SummerLi12/1226079181/raw/refs/heads/main/Hotels.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://github.com/SummerLi12/1226079181/raw/refs/heads/main/Hotels.xsd">
 	<!--Hotel 1-->
 	<Hotel Rating="4.5">
 		<Name>Sonesta Suites Scottsdale Gainey Ranch</Name>
